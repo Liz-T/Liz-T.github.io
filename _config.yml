@@ -1,1 +1,3 @@
+# build settings
 theme: jekyll-theme-minimal
+markdown: kramdown
