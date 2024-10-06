@@ -1,0 +1,6 @@
+.box>li>ul{
+ display: none;
+}
+.box>li:target>ul{
+ display:block;
+}
